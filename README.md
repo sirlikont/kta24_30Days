@@ -10,3 +10,5 @@
 - 5.day
 - 6.day
 - 7.day
+### 2.week
+- 8.day
