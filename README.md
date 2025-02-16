@@ -3,3 +3,4 @@
 ## Iga nädal uus branch, iga päev üks commit.
 ### 4.week:
 - 22.day
+- 23.day
